@@ -11,9 +11,9 @@ Iot 개발자 코인 게임
 
 | 파일명 | 기능 설명 |
 | :--- | :--- |
-| **[UFOMovement.cs](Assets/Scripts/UFOMovement.cs)** | 마우스 회전 및 비행 물리 엔진 (수평 보정 포함) |
-| **[Collectible.cs](Assets/Scripts/Collectible.cs)** | 코인 회전, 수집 효과(VFX) 및 점수 연동 |
-| **[GameManager.cs](Assets/Scripts/GameManager.cs)** | 전체 점수 기록 및 UI 실시간 업데이트 |
+| **[UFOMovement.cs](/CoinPathGame/Assets/Script/PlayerController.cs)** | 마우스 회전 및 비행 물리 엔진 (수평 보정 포함) |
+| **[Collectible.cs](/CoinPathGame/Assets/Script/Collectible.cs)** | 코인 회전, 수집 효과(VFX) 및 점수 연동 |
+| **[GameManager.cs](/CoinPathGame/Assets/Script/GameManager.cs)** | 전체 점수 기록 및 UI 실시간 업데이트 |
 
 ## 🚀 조작 방법 (Controls)
 
