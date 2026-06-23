@@ -1,0 +1,32 @@
+# 유니티 프로젝트 표준 ignore
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Mm]emoryCaptures/
+**/[Uu]ser[Ss]ettings/
+**/Packages/manifest.json.lock
+
+# VS Code / Visual Studio
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# OS 파일
+.DS_Store
+Thumbs.db
+CoinPathGame/Library/*
+CoinPathGame/Assets/_Unity Essentials/Tutorials/*
+CoinPathGame/Assets/_Unity Essentials/Audio/*
+CoinPathGame/Assets/_Unity Essentials/Fonts/*
+CoinPathGame/Assets/_Unity Essentials/Materials/Outdoor/*
+
